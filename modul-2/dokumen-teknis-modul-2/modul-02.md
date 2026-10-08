@@ -252,18 +252,6 @@ Selama praktikum, beberapa kendala ditemukan dari hasil tangkapan layar dan dise
 
 ## Daftar Pustaka
 
-[2] Mozilla. (2026). HTML elements reference. *MDN Web Docs*. https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+[1] Safitra, M. F. (2026). Modul 2: HTML Semantik, Tailwind CSS, dan Aksesibilitas. Praktikum Pengembangan Aplikasi Web (Kode MK 52357). Program Studi Ilmu Komputer, Fakultas Sains dan Ilmu Komputer, Universitas Pertamina.
 
-[3] Mozilla. (2026). CSS layout: Flexbox dan Grids. *MDN Web Docs*. https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout
 
-[4] Tailwind Labs. (2026). Responsive design dan Theme variables. *Tailwind CSS Documentation*. https://tailwindcss.com/docs/responsive-design
-
-[5] World Wide Web Consortium. (2023). *Web Content Accessibility Guidelines (WCAG) 2.2*. https://www.w3.org/TR/WCAG22/
-
-[6] W3C Web Accessibility Initiative. (2024). Landmark regions. *ARIA Authoring Practices Guide*. https://www.w3.org/WAI/ARIA/apg/practices/landmark-regions/
-
-[7] Google. (2026). Lighthouse accessibility score. *Chrome for Developers*. https://developer.chrome.com/docs/lighthouse/accessibility/scoring
-
-[8] Google. (2026). Simulate mobile devices with device mode dan Accessibility features reference. *Chrome for Developers*. https://developer.chrome.com/docs/devtools/device-mode
-
-[10] Vercel. (2026). Metadata and OG images. *Next.js Documentation*. https://nextjs.org/docs/app/getting-started/metadata-and-og-images
